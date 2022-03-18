@@ -1,3 +1,5 @@
 hello world
 changes from master
-changes from master - new !
+changes from "First"
+Text from master: new changes !
+
